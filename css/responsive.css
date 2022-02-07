@@ -1,0 +1,87 @@
+            @media (min-width: 1200px) {}
+            
+            @media (min-width: 992px) and (max-width: 1199.98px) {}
+            
+            @media (min-width: 768px) and (max-width: 991.98px) {
+                .banner_txt h1 {
+                    font-size: 34px;
+                    text-align: center;
+                }
+                .banner_txt p {
+                    font-size: 14px;
+                    text-align: center;
+                }
+                .left_img_one {
+                    left: -40px;
+                }
+                .left_img_five {
+                    left: -40px;
+                }
+                .left_img_six {
+                    left: 175px;
+                }
+                .banner_btn_one {
+                    left: 80px;
+                }
+            }
+            
+            @media (min-width: 576px) and (max-width: 767.98px) {
+                .banner_txt h1 {
+                    font-size: 53px;
+                    padding-top: 0px;
+                    margin-top: -450px;
+                    text-align: center;
+                }
+                .banner_txt p {
+                    text-align: center;
+                }
+                .banner_btn_one {
+                    left: 170px;
+                }
+                .left_img_one {
+                    left: 100px;
+                }
+                .left_img_two {
+                    left: 65px;
+                }
+                .left_img_three {
+                    left: 210px;
+                }
+                .left_img_four {
+                    left: 310px;
+                }
+                .left_img_five {
+                    left: 100px;
+                }
+                .left_img_six {
+                    left: 310px;
+                }
+            }
+            
+            @media (max-width: 575.98px) {
+                .banner_txt h1 {
+                    font-size: 51px;
+                    padding-top: 0px;
+                    margin-top: -460px;
+                    text-align: center;
+                }
+                .banner_txt p {
+                    font-size: 13px;
+                    text-align: center;
+                }
+                .banner_btn_one {
+                    left: 60px;
+                }
+                .img_one {
+                    width: 300px;
+                }
+                .left_img_two {
+                    left: -10px;
+                }
+                .left_img_three {
+                    left: 118px;
+                }
+                .left_img_four {
+                    left: 180px;
+                }
+            }
